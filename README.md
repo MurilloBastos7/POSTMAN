@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 
 <div align = "center">
-<h1>🤖 ATIVIDADE POSTMAN/GET 🤖</h1>
+<h1>🤖 ATIVIDADE POSTMAn 🤖</h1>
 </div>
 
 <hr>
